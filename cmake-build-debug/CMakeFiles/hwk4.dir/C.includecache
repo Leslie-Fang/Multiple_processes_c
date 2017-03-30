@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/leslie/testcode/hwk4/main.c
+stdio.h
+/Users/leslie/testcode/hwk4/stdio.h
+stdlib.h
+/Users/leslie/testcode/hwk4/stdlib.h
+unistd.h
+/Users/leslie/testcode/hwk4/unistd.h
+sys/types.h
+/Users/leslie/testcode/hwk4/sys/types.h
+sys/ipc.h
+/Users/leslie/testcode/hwk4/sys/ipc.h
+sys/shm.h
+/Users/leslie/testcode/hwk4/sys/shm.h
+sys/sem.h
+/Users/leslie/testcode/hwk4/sys/sem.h
+string.h
+/Users/leslie/testcode/hwk4/string.h
+

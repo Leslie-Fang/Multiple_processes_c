@@ -1,0 +1,3 @@
+/Users/leslie/testcode/hwk4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/leslie/testcode/hwk4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/leslie/testcode/hwk4/cmake-build-debug/CMakeFiles/hwk4.dir
